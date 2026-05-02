@@ -4,7 +4,7 @@ simbolos fluxogramas
 
 
 teste
-<img width="4160" height="3120" alt="teste" src="https://github.com/user-attachments/assets/d4ad4084-795e-4eb6-8473-2e9dc56b6d32" />
+<img width="3120" height="4160" alt="teste" src="https://github.com/user-attachments/assets/561f7317-2a9c-4159-8c00-bdddb34e07a7" />
 
 
 teste 2
