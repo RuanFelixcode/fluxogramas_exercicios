@@ -1,4 +1,4 @@
-# fluxogramas_exercicio
+# fluxogramas exercicios
 simbolos fluxogramas
 <img width="3120" height="4160" alt="símbolos fluxogramas_" src="https://github.com/user-attachments/assets/f57d7307-df4b-46ab-8cee-3ef71fc15d6c" />
 
